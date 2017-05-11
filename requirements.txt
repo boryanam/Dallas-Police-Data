@@ -1,7 +1,6 @@
 matplotlib
 numpy
 pandas
-time
 datetime
 sklearn
 sklearn.preprocessing
